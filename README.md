@@ -10,7 +10,8 @@ Platform: Google Colab
 ```
 > How To Use This Model?
 - [x] Load The Model(.h5) Weights File Into Memory(After Training Network)
-- [x]
+- [x] Copy-Past the Pre-Processing Function From My Notebook
+- [x] Get The Dog Image And Feed Into the Pre-Processing Function And Wait For the Results 😉
 
 
 
