@@ -8,7 +8,9 @@ Dataset : Kaggle
 Link    : https://www.kaggle.com/c/dog-breed-identification/data
 Platform: Google Colab
 ```
-
+> How To Use This Model?
+- [x] Load The Model(.h5) Weights File Into Memory(After Training Network)
+- [x]
 
 
 
